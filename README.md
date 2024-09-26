@@ -80,7 +80,7 @@ Assignments are organized by lesson numbers and are structured in weekly folders
 | 30 | Class Static Members                 | 06:53    |
 | 31 | Class Implements Interface           | 04:36    |
 
-**Assignments:** [Assignments 22-31](https://elzero.org/typescript-assignments-lessons-from-1-to-11/)
+**Assignments:** [Assignments 22-31](https://github.com/Mohamed-khaled0/Learn-TypeScript/tree/main/Week3)
 
 ---
 
@@ -98,7 +98,7 @@ Assignments are organized by lesson numbers and are structured in weekly folders
 | 37 | Generics And Interfaces               | 05:41    |
 | 38 | The End And How To Master Typescript  | 05:29    |
 
-**Assignments:** [Assignments 32-38](https://elzero.org/typescript-assignments-lessons-from-1-to-11/)
+**Assignments:** [Assignments 32-38](https://github.com/Mohamed-khaled0/Learn-TypeScript/tree/main/Week4)
 
 ---
 
