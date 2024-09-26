@@ -1,5 +1,7 @@
 // Modified Code
 const user: {
+    state: boolean;
+    id: string;
     username: string,
     age: number | string,  
     website?: string,

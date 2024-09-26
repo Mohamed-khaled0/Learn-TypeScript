@@ -1,5 +1,5 @@
 "use strict";
-let user = {
+let user1 = {
     id: 100,
     username: "Elzero",
     state: true,
@@ -7,7 +7,8 @@ let user = {
         return this.username;
     }
 };
-user.id = 200;
-user.id = "200";
-user.state = false;
+let updatedUser = Object.assign(Object.assign({}, user1), { state: false });
+user1.id = 200;
+user1.id = "200";
+user1.state = false;
 //# sourceMappingURL=index.js.map
