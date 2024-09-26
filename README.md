@@ -64,7 +64,6 @@ Assignments are organized by lesson numbers and are structured in weekly folders
 ---
 
 ## Week 3: Interfaces & Class Part 1
-
 **Lessons:**
 
 | No | Lesson Name                          | Duration |
