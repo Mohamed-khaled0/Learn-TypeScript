@@ -38,7 +38,7 @@ Assignments are organized by lesson numbers and are structured in weekly folders
 | 10 | Function Rest Parameter                                 | 04:24     |
 | 11 | Type Annotations With Anonymous And Arrow Function      | 02:10     |
 
-**Assignments:** [Assignments 01-11](https://elzero.org/typescript-assignments-lessons-from-1-to-11/)
+**Assignments:** [Assignments 01-11](https://github.com/Mohamed-khaled0/Learn-TypeScript/tree/main/Week1)
 
 ---
 
@@ -59,7 +59,7 @@ Assignments are organized by lesson numbers and are structured in weekly folders
 | 20 | Data Types – Intersection And Union Types | 04:52 |
 | 21 | Type Annotations With Object       | 04:32    |
 
-**Assignments:** [Assignments 12-21](https://elzero.org/typescript-assignments-lessons-from-1-to-11/)
+**Assignments:** [Assignments 12-21](https://github.com/Mohamed-khaled0/Learn-TypeScript/tree/main/Week2)
 
 ---
 
